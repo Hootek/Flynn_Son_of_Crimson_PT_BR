@@ -3,7 +3,7 @@ Tradução do Flynn: Son of Crimson (PC) e possivelmente Nintendo SWITCH (é nec
 
 ## Ultimo lançamento
 Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/FALLEN_ANGEL_PT-BR)](https://github.com/Hootek/FALLEN_ANGEL_PT-BR/releases/latest)<<<<<Baixar Aqui
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/Flynn_Son_of_Crimson_PT_BR)](https://github.com/Hootek/Flynn_Son_of_Crimson_PT_BR/releases/latest)<<<<<Baixar Aqui
 
 Instalação
 Versão steam
