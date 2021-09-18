@@ -1,4 +1,6 @@
 # Flynn: Son of Crimson (PT-BR)
+![FLYN](https://images.gog-statics.com/02698cdac80db2247017f075da6865a6f36eb7d7e6fb71ff5613e38952044090.jpg)
+
 Tradução do Flynn: Son of Crimson (PC) e possivelmente Nintendo SWITCH (é necessário o port)
 
 ## Ultimo lançamento
