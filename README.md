@@ -9,11 +9,10 @@ Sobre o Jogo
 | DESENVOLVEDOR | Studio Thunderhorse |
 | ------------------- | ------------------- |
 | GÊNERO | Ação, Aventura, 2D |
-| LANÇAMENTO:15 de Setembro de 2021 |
+| LANÇAMENTO | 15 de Setembro de 2021 |
 | PLATAFORMAS | Xbox One, PlayStation 4, Switch e PC |
+| Steam | https://store.steampowered.com/app/737520/Flynn_Son_of_Crimson |
 
-Loja na Steam
-https://store.steampowered.com/app/737520/Flynn_Son_of_Crimson/
 
 Ultimo lançamento
 ====================
