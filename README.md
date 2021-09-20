@@ -3,11 +3,24 @@
 
 Tradução do Flynn: Son of Crimson (PC) e possivelmente Nintendo SWITCH (é necessário o port)
 
-## Ultimo lançamento
-Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/Flynn_Son_of_Crimson_PT_BR)](https://github.com/Hootek/Flynn_Son_of_Crimson_PT_BR/releases/latest)<<<<<Baixar Aqui
+Sobre o Jogo
+====================
 
-Instalação
+| DESENVOLVEDOR | Studio Thunderhorse |
+| ------------------- | ------------------- |
+| GÊNERO | Ação, Aventura, 2D |
+| LANÇAMENTO:15 de Setembro de 2021 |
+| PLATAFORMAS | Xbox One, PlayStation 4, Switch e PC |
+
+Loja na Steam
+https://store.steampowered.com/app/737520/Flynn_Son_of_Crimson/
+
+Ultimo lançamento
+====================
+Baixar Aqui >>>>>
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/Flynn_Son_of_Crimson_PT_BR)](https://github.com/Hootek/Flynn_Son_of_Crimson_PT_BR/releases/latest)
+
+# Instalação
 Versão steam
 
 Cole e substitua os arquivos em
