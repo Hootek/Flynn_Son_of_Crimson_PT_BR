@@ -4,7 +4,7 @@
   <img src="Flyn.png">
 </figure></h1>
 
-Tradução do Flynn: Son of Crimson (PC) e possivelmente Nintendo SWITCH (é necessário o port)
+Tradução do Flynn: Son of Crimson (PC) e Nintendo Switch
 
 Sobre o Jogo
 ====================
